@@ -18,7 +18,7 @@
 		"express"			:	"3.0.x",
 		"mongoskin"			:	"0.4.x",
 		"socket.io"			:	"0.9.x",
-		"ejs"				:	"0.8.x",
+		"ejs"				:	"3.0.x",
 		"passport"			:	"0.1.x",
 		"passport-local"	:	"0.1.x",
 		"passport-facebook"	:	"0.1.x",
